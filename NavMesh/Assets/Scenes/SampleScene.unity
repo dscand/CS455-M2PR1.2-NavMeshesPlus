@@ -850,7 +850,7 @@ MonoBehaviour:
   m_AgentTypeID: 0
   m_StartPoint: {x: -0.2, y: 0, z: 0}
   m_EndPoint: {x: -2.5, y: 0, z: 0}
-  m_Width: 1.2
+  m_Width: 0.6
   m_CostModifier: -1
   m_Bidirectional: 1
   m_AutoUpdatePosition: 1
